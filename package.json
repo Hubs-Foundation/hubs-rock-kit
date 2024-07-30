@@ -2,7 +2,7 @@
   "name": "hubs-rock-kit",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/MozillaReality/hubs-rock-kit.git",
+  "repository": "https://github.com/Hubs-Foundation/hubs-rock-kit.git",
   "author": "Robert Long <robert@robertlong.me>",
   "license": "MIT",
   "scripts": {
