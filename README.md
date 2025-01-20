@@ -8,7 +8,12 @@ The Hubs Rock Kit is one example of configurable pieces that can be used to crea
 
 # Download
 
-In order to download the source files for the kit you will need the [Github Desktop client](https://desktop.github.com/), or [Git-LFS](https://git-lfs.github.com/) if you are using the command line. Then clone the repository.
+This repository uses [Git LFS](https://git-lfs.com/).
+
+If you just want the files to use, please [download them from here](https://drive.google.com/drive/folders/17JSgPNEZOc3RsYSU7A-QbNEHRrEvGrQC?usp=sharing).
+
+**Contributors:**
+If you want to contribute to the repository, you will need to have Git LFS installed before cloning the repository (don't forget to run `git lfs install` once you've installed it).
 
 # License
 
